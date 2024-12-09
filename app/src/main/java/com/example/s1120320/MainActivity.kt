@@ -74,7 +74,7 @@ fun GameScreen(modifier: Modifier = Modifier) {
     ) {
         // 顯示期末上機考的文字
         Text(
-            text = "2024期末上機考(資管二A劉伊宸)",
+            text = "2024期末上機考(資管二A倪培睿)",
             fontSize = 18.sp,
             color = Color.Black
         )
