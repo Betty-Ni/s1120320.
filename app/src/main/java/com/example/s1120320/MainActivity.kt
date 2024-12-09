@@ -79,6 +79,7 @@ fun GameScreen(modifier: Modifier = Modifier) {
             color = Color.Black
         )
 
+
         // 顯示圖片 (假設 class_a 是你放在資源中的圖片)
         Image(
             painter = painterResource(id = R.drawable.class_a),
